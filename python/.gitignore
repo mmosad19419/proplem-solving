@@ -39,3 +39,4 @@ coverage.xml
 .pytype/
 cython_debug/
 .pyc/
+.DS_Store
